@@ -1,10 +1,5 @@
-# Greentown Learning Privacy Policy
+# Step By Step English privacy and support
 
-**Effective date:** July 21, 2026
+Updated November 5, 2026. The complete bilingual policy is [index.html](index.html); publish it together with [support.html](support.html). Operator: Aaron Cox. Privacy contact: aaron.tcox@icloud.com.
 
-This Markdown file is an editable source copy. The complete bilingual policy is in `index.html`. Publish `index.html` and `support.html` together so their links continue to work.
-
-Operator for current beta: Aaron Cox  
-Privacy contact: aaron.tcox@icloud.com
-
-The current beta is school-account only. Update the published policy before adding individual accounts, subscriptions, guardian accounts, payment entitlements, analytics, advertising, or new service providers.
+School-managed and adult-managed individual accounts have different data flows. Individual accounts sync entitlement and map-scoped progress, never teacher recordings or recognized transcript text. The support page covers downloading and switching maps, subscription access, deletion and school enquiries.
